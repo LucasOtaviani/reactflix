@@ -1,8 +1,8 @@
 import React from 'react';
-import Menu from '../../componenents/Menu';
-import BannerMain from '../../componenents/BannerMain';
-import Carousel from '../../componenents/Carousel';
-import Footer from '../../componenents/Footer';
+import Menu from '../../components/Menu';
+import BannerMain from '../../components/BannerMain';
+import Carousel from '../../components/Carousel';
+import Footer from '../../components/Footer';
 
 import dadosIniciais from '../../data/dados_iniciais.json';
 
